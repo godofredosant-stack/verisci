@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+celery[redis]
+redis
+openai
+python-dotenv
+python-docx
+weasyprint
